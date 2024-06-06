@@ -1,0 +1,57 @@
+/* styles */
+
+* {
+    text-align: center;
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-headline {
+    background-color: beige;
+    outline: 4px solid bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0;
+}
+
+#est {
+    background-color: beige;
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.second-headline {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    outline: 4px solid bisque;
+    background-color:beige;
+}
+
+#feedback-headline {
+    width: 200px;
+}
+
+ul {
+    display: inline-block;
+    text-align: center;
+    margin-top: 0;
+}
+
+li {
+    text-align: left;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+#line {
+    height: 3px;
+    width: 500px;
+    text-align: center;
+    background-color: black;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
